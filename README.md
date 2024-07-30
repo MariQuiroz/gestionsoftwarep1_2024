@@ -1,2 +1,2 @@
-# gestionsoftwarep1_2024
+# PRACTICA1
 practica1
